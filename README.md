@@ -1,1 +1,2 @@
-# Convert-a-baby-s-age-in-days-to-years-months-weeks-and-days.
+Here we are converting Baby's Age, Months, Weeks, Days with number of days only.
+With the help of C language.
